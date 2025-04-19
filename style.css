@@ -1,0 +1,11 @@
+/* style.css */
+@font-face {
+  font-family: "Komorebi";
+  src: url("fonts/komorebi-gothic.ttf") format("truetype");
+}
+
+body {
+  font-family: "Komorebi", sans-serif;
+  color: gray;
+  text-align: center;
+}
