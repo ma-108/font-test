@@ -1,7 +1,7 @@
 /* style.css */
 @font-face {
   font-family: "Komorebi";
-  src: url("fonts/komorebi-gothic.ttf") format("truetype");
+  src: url("komorebi-gothic.ttf") format("truetype");
 }
 
 body {
